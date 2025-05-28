@@ -53,7 +53,7 @@
 
 
 ### 📫 Contacto
-- ✉️ josevidalaquije30@gmail.com  
+- ✉️ joseaquije30@gmail.com  
 
 
 ---
