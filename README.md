@@ -38,6 +38,8 @@
 - Conexión con servicios backend mediante APIs REST.
 - Soporte en integración y validación de datos con **NetBeans**, **Java** y **PostgreSQL**.
 
+  (./repo.png)
+
 
 ---
 
