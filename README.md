@@ -1,59 +1,60 @@
-# 👋 Hola, soy José 👨‍💻
+# 👋 Hi, I'm Jose Aquije 👨‍💻
 
-🎓 Estudiante de Ingeniería de Sistemas | 👨‍💻 Desarrollador Frontend  
-🚀 Apasionado por crear interfaces limpias, rápidas y funcionales usando **React + TypeScript**.  
-🔒 Actualmente colaboro en un proyecto para un ministerio del Perú (repositorio privado).
+🚀 Python Backend Developer | AI Integration Developer  
+💼 2+ years of professional experience building APIs, automation workflows and AI-powered solutions.  
+🔧 Currently working at Agile Solutions.  
 
 ---
 
-### 🚀 Tecnologías que uso
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+## 🧠 What I Do
+
+- 🔹 Backend development with **Python & FastAPI**
+- 🔹 AI conversational agents using **LangChain + Ollama**
+- 🔹 Retrieval-Augmented Generation with **FAISS**
+- 🔹 WhatsApp Business API integrations
+- 🔹 Automation pipelines using **n8n**
+- 🔹 Microservices architecture with **Spring Boot**
+- 🔹 REST API design & JSON validation
+- 🔹 SQL database management
+
+---
+
+## 🚀 Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
-![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=fff)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?logo=springboot&logoColor=fff)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?logo=chainlink&logoColor=fff)
+![FAISS](https://img.shields.io/badge/-FAISS-000000?logo=data:image/svg+xml;base64,...)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)
-![DBeaver](https://img.shields.io/badge/-DBeaver-000000?logo=data:image/svg+xml;base64,...)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 
 ---
 
-### 📊 GitHub Stats
+## 🤖 Featured Project
 
-> ⚠️ *Trabajo principalmente en proyectos privados, por eso las estadísticas públicas no reflejan todo mi trabajo.*
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=eleynir&theme=vitesse&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleynir&layout=compact&hide=css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+### AI Hotel Assistant
 
----
+Conversational AI system capable of answering hotel customer inquiries via WhatsApp.
 
-## 🧠 Experiencia actual
-
-🔧 Actualmente colaboro en el desarrollo de interfaces internas para el **Ministerio de Justicia del Perú**, enfocándome en:
-
-- Desarrollo frontend con **React**, **TypeScript**, **HTML** y **CSS**.
-- Creación de componentes reutilizables y sistemas de diseño.
-- Conexión con servicios backend mediante APIs REST.
-- Soporte en integración y validación de datos con **NetBeans**, **Java** y **PostgreSQL**.
-
-![Foto de José](repo.png)
-
+- Built with **FastAPI**
+- Contextual retrieval using **FAISS**
+- LLM integration via **Ollama**
+- Multi-hotel scalable architecture
+- WhatsApp Business API automation
 
 ---
 
-## 📌 Próximamente
+## 📊 GitHub Activity
 
-- 🛠️ Dashboard administrativo con **React + Tailwind + PostgreSQL**
-- 🧪 Proyectos frontend públicos para mostrar animaciones, responsividad y UX
-- 🧰 Componentes reutilizables listos para producción
+> ⚠️ Most of my professional work is in private repositories.
 
 ---
 
+## 📫 Contact
 
-### 📫 Contacto
-- ✉️ joseaquije30@gmail.com  
-
-
+✉️ joseaquije30@gmail.com  
+🌍 Lima, Peru  
 ---
